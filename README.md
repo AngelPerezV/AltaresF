@@ -5,7 +5,8 @@
 # Descripción del Proyecto
 
 ## * Para los indígenas y refiriéndonos principalmente a los del Estado de México, la celebración del día de muertos no consiste un culto a la muerte en abstracto, sino es un culto a los antepasados, y es justamente por eso que lo celebran. Es de gran importancia ya que preserva el nexo que los liga a sus antecesores.
-# Que hace el proyecto
+
+# Que hace el proyecto?
 ## * Es un proyecto que te motiva a aprender acerca de la tradición Mexicana del dia de muertos Por medio de un chatbot(llamado muertin) y una herramienta de cognitive services 
 
 # Como funciona?
