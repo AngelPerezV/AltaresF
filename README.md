@@ -1,4 +1,4 @@
-# Nombre del proyecto 
+# Nombre del proyecto:
 
 ## * Altares Inteligentes 
 
